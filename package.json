@@ -1,5 +1,5 @@
 {
-  "name": "my-next-app",
+  "name": "kosheen",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,6 +13,7 @@
     "cf-typegen": "wrangler types --env-interface CloudflareEnv env.d.ts"
   },
   "dependencies": {
+    "lucide-react": "^0.441.0",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
